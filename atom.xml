@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>A Geek 4 Fitness</title>
+  <icon>http://yoursite.com/icon.png</icon>
+  <subtitle>Geekz 4 Fitness</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2021-04-08T22:21:42.303Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>Noah Branch</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>about</title>
+    <link href="http://yoursite.com/2021/04/08/about/"/>
+    <id>http://yoursite.com/2021/04/08/about/</id>
+    <published>2021-04-08T22:21:42.000Z</published>
+    <updated>2021-04-08T22:21:42.303Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>page</title>
+    <link href="http://yoursite.com/2021/04/08/page/"/>
+    <id>http://yoursite.com/2021/04/08/page/</id>
+    <published>2021-04-08T22:05:45.000Z</published>
+    <updated>2021-04-08T22:05:45.501Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://yoursite.com/2021/04/04/hello-world/"/>
+    <id>http://yoursite.com/2021/04/04/hello-world/</id>
+    <published>2021-04-05T03:03:44.269Z</published>
+    <updated>2021-04-05T03:03:44.269Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>a</title>
+    <link href="http://yoursite.com/2021/01/04/a/"/>
+    <id>http://yoursite.com/2021/01/04/a/</id>
+    <published>2021-01-04T21:30:40.000Z</published>
+    <updated>2021-04-08T02:28:41.547Z</updated>
+    
+    <summary type="html">
+    
+      Hello wanna know about canadians
+    
+    </summary>
+    
+    
+      <category term="cattergory / hello" scheme="http://yoursite.com/categories/cattergory-hello/"/>
+    
+    
+      <category term="tests" scheme="http://yoursite.com/tags/tests/"/>
+    
+  </entry>
+  
+</feed>
